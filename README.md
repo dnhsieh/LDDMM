@@ -1,5 +1,4 @@
 ## LDDMM
-Diffeomorphic shape registration via the large deformation diffeomorphic metric mapping.
 
 The files `./CUDA/src/compile.m`, `./Cpp/src/compile.m`, and `./MATLAB/src/compile.m` need to be run for the first-time usage. The variable `libraryDir` in `./CUDA/src/compile.m` may need to be changed. Below we show the registraion results of `run_circle2square` and `run_sphere2cube`.
 
